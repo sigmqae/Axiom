@@ -1,0 +1,12 @@
+{
+  "key.killaura.menu": "Open Client Menu",
+  "key.killaura.killaura": "Toggle KillAura",
+  "key.killaura.aimassist": "Toggle AimAssist",
+  "key.killaura.autototem": "Toggle AutoTotem",
+  "key.killaura.sprint": "Toggle Sprint",
+  "key.killaura.fly": "Toggle Fly",
+  "key.killaura.fullbright": "Toggle Fullbright",
+  "key.killaura.mobglow": "Toggle MobGlow",
+  "key.killaura.autorespawn": "Toggle AutoRespawn",
+  "category.killaura": "Axiom Client"
+}
